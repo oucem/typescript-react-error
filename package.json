@@ -9,16 +9,16 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "arlas-api": "^9.0.1",
-    "arlas-web-core": "^9.2.0"
+    "arlas-api": "^17.0.0",
+    "arlas-web-core": "^17.1.1"
   },
   "devDependencies": {
-    "@babel/plugin-proposal-class-properties": "^7.3.0",
-    "@babel/plugin-proposal-object-rest-spread": "^7.3.2",
-    "@babel/preset-env": "^7.3.1",
-    "@babel/preset-react": "^7.0.0",
-    "jest": "^24.1.0",
-    "ts-jest": "^23.10.5",
-    "typescript": "^3.3.3"
+    "@babel/plugin-proposal-class-properties": "^7.14.5",
+    "@babel/plugin-proposal-object-rest-spread": "^7.14.5",
+    "@babel/preset-env": "^7.14.5",
+    "@babel/preset-react": "^7.14.5",
+    "jest": "^27.0.4",
+    "ts-jest": "^27.0.3",
+    "typescript": "^4.3.4"
   }
 }
